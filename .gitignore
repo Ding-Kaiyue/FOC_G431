@@ -1,0 +1,9 @@
+.mxproject
+FOC_V2_2.uvguix.d5707
+FOC_V2_2.uvoptx
+JlinkLog.txt
+startup_stm32g431xx.lst
+startup_stm32g431xx.s
+/MDK-ARM/FOC_V2_2/
+/MDK-ARM/DebugConfig/
+/MDK-ARM/.vscode/
